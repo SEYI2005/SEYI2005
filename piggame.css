@@ -1,0 +1,116 @@
+body {
+  background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+}
+.player1 {
+  background-color: rgba(255, 255, 255, 0.549);
+  width: 390px;
+  height: 640px;
+  position: relative;
+  left: 250px;
+  top: 41px;
+}
+
+.player2 {
+  background-color: rgba(255, 255, 255, 0.261);
+  width: 390px;
+  height: 640px;
+  position: relative;
+  left: 640px;
+  bottom: 620px;
+}
+h1 {
+  position: relative;
+  left: 120px;
+  top: 80px;
+}
+.span1 {
+  position: relative;
+  left: 140px;
+  top: 80px;
+  font-size: 50px;
+  color: #bf2e34;
+}
+.span2 {
+  position: relative;
+  left: 140px;
+  top: 80px;
+  font-size: 50px;
+  color: #bf2e34;
+}
+.button1 {
+  width: 220px;
+  padding: 55px;
+
+  position: relative;
+  top: 335px;
+  left: 10px;
+  height: 20px;
+  border-radius: 20px;
+  background-color: #bf2e33b4;
+}
+.button2 {
+  width: 220px;
+  padding: 55px;
+
+  position: relative;
+  top: 330px;
+  left: 70px;
+  height: 20px;
+  border-radius: 20px;
+  background-color: #bf2e336b;
+}
+.bp1 {
+  font-size: 25px;
+  color: white;
+  position: relative;
+  bottom: 70px;
+}
+.bp2 {
+  position: relative;
+  bottom: 70px;
+  font-size: 25px;
+  color: white;
+}
+.spanb1 {
+  position: relative;
+  bottom: 90px;
+  color: white;
+  font-size: 28px;
+}
+
+.spanb2 {
+  position: relative;
+  bottom: 90px;
+  color: white;
+  font-size: 28px;
+}
+.newgame {
+  width: 200px;
+  padding: 15px;
+  position: relative;
+  bottom: 120px;
+  left: 280px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.881);
+  color: #000;
+}
+.rolldice {
+  width: 200px;
+  padding: 15px;
+  position: relative;
+  top: 160px;
+  left: 280px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.881);
+  color: #000;
+}
+.hold {
+  width: 140px;
+  padding: 15px;
+  position: relative;
+  top: 280px;
+  left: 100px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.881);
+  color: #000;
+}

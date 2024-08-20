@@ -1,0 +1,66 @@
+.box {
+  width: 450px;
+  height: 650px;
+  background: linear-gradient(to top left, white 0%, #f2f2f2);
+
+  position: relative;
+  left: 450px;
+  border: 1px solid #f2f2f2;
+  border-radius: 10px;
+}
+body {
+  background-color: rgba(0, 0, 255, 0.09);
+  margin: 0;
+  width: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+input {
+  font-size: 15px;
+}
+.log {
+  background-color: rgba(0, 0, 255, 0.996);
+  color: white;
+  width: 100px;
+  border: 1px solid rgba(0, 0, 255, 0.987);
+  width: 180px;
+  border-radius: 6px;
+}
+.book {
+  margin: 20px;
+
+  border-radius: 8px;
+
+  font-size: 15px;
+  background-color: rgba(0, 0, 255, 0.996);
+  color: white;
+
+  border: 1px solid rgba(0, 0, 255, 0.987);
+}
+a {
+  text-decoration: none;
+}
+
+#span1 {
+  font-size: 15px;
+  color: red;
+
+  left: 73px;
+}
+#span2 {
+  font-size: 15px;
+  color: red;
+
+  left: 73px;
+}
+.text {
+  text-align: center;
+}
+.forgot {
+  margin-left: 200px;
+}
+
+.hidden {
+  display: none;
+}

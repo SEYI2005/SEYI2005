@@ -1,0 +1,175 @@
+.box {
+  width: 650px;
+  height: 700px;
+  background-color: rgba(0, 0, 255, 0.052);
+  border: 1px solid black;
+  box-sizing: border-box;
+  position: relative;
+  left: 400px;
+}
+
+.cancel {
+  position: relative;
+  left: 336px;
+  bottom: 365px;
+  font-size: 13px;
+  width: 105px;
+  height: 40px;
+}
+.div {
+  position: relative;
+  top: 350px;
+  left: 550px;
+}
+
+.mul {
+  position: relative;
+  top: 320px;
+  left: 550px;
+}
+
+.sub {
+  position: relative;
+  top: 300px;
+  left: 550px;
+}
+.add {
+  position: relative;
+  top: 277px;
+  left: 550px;
+}
+
+.mth {
+  font-size: 30px;
+  width: 100px;
+}
+.num9 {
+  position: relative;
+  top: 25px;
+  left: 400px;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  font-size: 30px;
+}
+.sqr {
+  position: relative;
+  bottom: 360px;
+  left: 290px;
+  width: 100px;
+  font-size: 30px;
+}
+.num6 {
+  position: relative;
+  top: 27px;
+  left: 400px;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  font-size: 30px;
+}
+.num3 {
+  position: relative;
+  top: 30px;
+  left: 400px;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  font-size: 30px;
+}
+.point {
+  position: relative;
+  top: 30px;
+  left: 405px;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  font-size: 30px;
+}
+.num8 {
+  position: relative;
+  left: 120px;
+  top: 65px;
+  width: 100px;
+  font-size: 30px;
+}
+
+.square {
+  position: relative;
+  bottom: 360px;
+  right: 95px;
+  width: 100px;
+  font-size: 30px;
+}
+.num5 {
+  position: relative;
+  left: 125px;
+  top: 70px;
+  width: 100px;
+  font-size: 30px;
+}
+.num2 {
+  position: relative;
+  left: 130px;
+  top: 70px;
+  width: 100px;
+  font-size: 30px;
+}
+.num0 {
+  position: relative;
+  left: 240px;
+  top: 70px;
+  width: 100px;
+  font-size: 30px;
+}
+
+.num7,
+.num4,
+.num1 {
+  position: relative;
+  top: 150px;
+  width: 100px;
+  font-size: 30px;
+}
+.modulo {
+  position: relative;
+  bottom: 265px;
+  right: 105px;
+  width: 100px;
+  font-size: 30px;
+}
+.oval {
+  position: relative;
+  bottom: 270px;
+  right: 1px;
+  width: 100px;
+  font-size: 30px;
+}
+.equal {
+  position: relative;
+  top: 40px;
+  left: 50px;
+  width: 120px;
+  height: 70px;
+  font-size: 30px;
+  background-color: blue;
+  color: white;
+}
+.answer {
+  position: relative;
+  bottom: 600px;
+  left: 10px;
+  font-size: 30px;
+}
+
+.hidden {
+
+  display: none;
+}
+.sign{
+  position: relative;
+  left: 330px;
+  font-size: 30px;
+  top: 40px;
+
+}
